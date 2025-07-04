@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-hello github
+title: Welcome to my blog! hello github
 ---
